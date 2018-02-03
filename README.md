@@ -11,7 +11,7 @@
 
 账目截图展示
 
-![](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E9%A6%96%E9%A1%B5.jpeg)
+![首页展示](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E9%A6%96%E9%A1%B5.jpeg)
 
 
 项目主要是为了应付期末的大作业评分，基本在一个星期左右开发完毕，准备时间仓促，存在大量错误和不成熟的开发，希望得到大家的批评指正。<br >
