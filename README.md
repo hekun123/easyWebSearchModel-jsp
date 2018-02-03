@@ -8,10 +8,17 @@
 4.每条检索结果下面可以对相似新闻进行查找。<br >
 5.首页列举当前最热的社会新闻。<br >
 <br >
+项目主要使用lucence开源工具进行搜索的索引建立、搜索等任务，布局虽然简陋但是bootstrap确实好用。
+项目其中的搜索关键词补齐参考了http://blog.csdn.net/wulex/article/details/52245342 博主的分享万分感激
 
 账目截图展示
 
 ![首页展示](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E9%A6%96%E9%A1%B5.jpeg)
+首页展示
 
+![首页展示](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E6%90%9C%E7%B4%A2%E8%A1%A5%E9%BD%90.jpeg)
+自动补气，其余功能均在images文件夹中浏览截图
+
+项目页面布局因为没有来得急仔细设计较为简陋。
 
 项目主要是为了应付期末的大作业评分，基本在一个星期左右开发完毕，准备时间仓促，存在大量错误和不成熟的开发，希望得到大家的批评指正。<br >
