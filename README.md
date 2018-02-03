@@ -16,8 +16,11 @@
 ![首页展示](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E9%A6%96%E9%A1%B5.jpeg)
 首页展示
 
-![首页展示](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E6%90%9C%E7%B4%A2%E8%A1%A5%E9%BD%90.jpeg)
-自动补气，其余功能均在images文件夹中浏览截图
+![搜索结果](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%90%9C%E7%B4%A2.jpeg)
+搜索结果展示
+
+![自动补齐](https://github.com/hekun123/easyWebSearchModel-jsp/blob/master/images/%E6%90%9C%E7%B4%A2%E8%A1%A5%E9%BD%90.jpeg)
+自动补齐，其余功能均在images文件夹中浏览截图
 
 项目页面布局因为没有来得急仔细设计较为简陋。
 
